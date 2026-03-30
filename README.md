@@ -9,6 +9,8 @@ Os arquivos estão organizados por tecnologia para facilitar a navegação:
 
 [Linguagem C](./C): Programas compiláveis, focados em lógica, estruturas de dados e manipulação de memória.
 
+[Linguagem Java](.Java): Projetos e exercícios focados em Programação Orientada a Objetos (POO)
+
 * 🔍 Aprendizados: operações matemáticas, variáveis, if/else, for loops, do while loops. 
 
 * 💻 Desafios:  calculadora, verificador de maior número, verificador de números pares e ímpares, tabuada, contagem regressiva, verificador de números primos.
