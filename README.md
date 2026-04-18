@@ -11,14 +11,21 @@ Os arquivos estão organizados por tecnologia para facilitar a navegação:
 
 [Linguagem Java](.Java): Projetos e exercícios focados em Programação Orientada a Objetos (POO)
 
-* 🔍 Aprendizados: operações matemáticas, variáveis, if/else, for loops, do while loops. 
+[Linguagem Python](.Python): exercícios iniciais. (Em progresso!)
 
-* 💻 Desafios:  calculadora, verificador de maior número, verificador de números pares e ímpares, tabuada, contagem regressiva, verificador de números primos.
+* 🔍 Aprendizados: Operações matemáticas, variáveis, if/else, for loops, do-while loops, classes, métodos e pilares da POO. 
 
-### 🧠 O que estou aprendendo? ###
+* 💻 Desafios: Calculadoras, verificadores de números (par/ímpar, primos, maior número), tabuada, contagem progressiva/regressiva.
 
-[x] Variáveis e tipos de dados;<br>
-[x] Estruturas condicionais (if/else, switch);<br>
-[x] Estruturas de repetição (while, do-while, for);<br>
-[ ] Funções, vetores e matrizes (Próximo passo!).
+### 🧠 O que estou aprendendo?
+
+[x] Variáveis e tipos de dados
+
+[x] Estruturas condicionais (if/else, switch)
+
+[x] Estruturas de repetição (while, do-while, for)
+
+[x] Programação Orientada a Objetos (Encapsulamento, Herança, Polimorfismo)
+
+[ ] Bibliotecas e frameworks em Python
 
